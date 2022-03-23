@@ -4,7 +4,7 @@
 Dominik Blak 
 
 ## 🚀 Demo :
-[Homepage](https://dominikblak.github.io/Homepage/)
+[Homepage](https://dominikblak.github.io/Homepage/src/)
 
 ### 📖 Description :
 Responsive Homepage :
